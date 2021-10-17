@@ -14,3 +14,6 @@ Vorhandene Powerups im Spiel:
   - Blau: Das Paddle wird größer
   - Rosa: Das Paddle wird schneller
   - Rot: Der Ball zerstört einen Stein bei einer Kollision direkt, egal wie viele Leben dieser noch hat und er verändert seine Richtung dabei nicht
+
+Wird ein Stein mit einem Leben zertört sammelt man 100 Punkte. Für das Zerstören eines Steins mit zwei Leben bekommt man 300 Punkte und für das Zerstören eines Steins mit 3 Leben bekommt man 500 Punkte. 
+Das Einsammeln eines Powerups wird mit 50 Punkten belohnt.
